@@ -1,0 +1,15 @@
+@{
+    ViewData["Title"] = "Index";
+}
+
+@model IQueryable<Product>
+
+@foreach (var product in Model)
+{
+    <div>
+        <h3>@product.Name</h3>
+        <h3>@product.Category</h3>
+        <h3>@product.Description</h3>
+        <h3>@product.Price</h3>
+    </div>
+}
