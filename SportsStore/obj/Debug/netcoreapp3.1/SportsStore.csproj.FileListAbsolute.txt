@@ -64,3 +64,5 @@ D:\books\pro asp.net 3.1\chapter 7\SportsSln\SportsStore\obj\Debug\netcoreapp3.1
 D:\books\pro asp.net 3.1\chapter 7\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\books\pro asp.net 3.1\chapter 7\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csprojAssemblyReference.cache
 D:\books\pro asp.net 3.1\chapter 7\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.xml
+D:\books\pro asp.net 3.1\chapter 7\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\libman.json
+D:\books\pro asp.net 3.1\chapter 7\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductSummary.cshtml.g.cs

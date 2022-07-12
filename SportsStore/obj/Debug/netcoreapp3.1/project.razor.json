@@ -10266,7 +10266,7 @@
         }
       },
       {
-        "HashCode": -1235540152,
+        "HashCode": 1452344480,
         "Kind": "ITagHelper",
         "Name": "SportsStore.InfraStructure.PageLinkTagHelper",
         "AssemblyName": "SportsStore",
@@ -10296,6 +10296,38 @@
             "TypeName": "System.String",
             "Metadata": {
               "Common.PropertyName": "PageAction"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "page-classes-enabled",
+            "TypeName": "System.Boolean",
+            "Metadata": {
+              "Common.PropertyName": "PageClassesEnabled"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "page-class",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "PageClass"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "page-class-normal",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "PageClassNormal"
+            }
+          },
+          {
+            "Kind": "ITagHelper",
+            "Name": "page-class-selected",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "PageClassSelected"
             }
           }
         ],
@@ -14458,6 +14490,11 @@
     {
       "FilePath": "d:\\books\\pro asp.net 3.1\\chapter 7\\SportsSln\\SportsStore\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\books\\pro asp.net 3.1\\chapter 7\\SportsSln\\SportsStore\\Views\\Shared\\_ProductSummary.cshtml",
+      "TargetPath": "Views\\Shared\\_ProductSummary.cshtml",
       "FileKind": "mvc"
     }
   ],

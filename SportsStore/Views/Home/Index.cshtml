@@ -4,14 +4,11 @@
 
 @model ProductListViewModel
 
-@foreach (var product in Model.Products)
+@foreach (var p in Model.Products)
 {
-    <div>
-        <h3>@product.Name</h3>
-        <h4>@product.Category</h4>
-        <h5>@product.Description</h5>
-        <h6>@product.Price</h6>
-    </div>
+    <partial name="_ProductSummary" model="p"/>
 }
 
-<div page-model="@Model.PagingInfo" page-action="Index"></div>
+<div page-model="@Model.PagingInfo" page-action="Index" page-classes-enabled="true" page-class="btn"
+    page-class-normal="btn-outline-dark" page-class-selected="btn-primary" class="btn-group pull-right m-1">
+</div>
