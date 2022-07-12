@@ -2,14 +2,16 @@
     ViewData["Title"] = "Index";
 }
 
-@model IQueryable<Product>
+@model ProductListViewModel
 
-@foreach (var product in Model)
+@foreach (var product in Model.Products)
 {
     <div>
         <h3>@product.Name</h3>
-        <h3>@product.Category</h3>
-        <h3>@product.Description</h3>
-        <h3>@product.Price</h3>
+        <h4>@product.Category</h4>
+        <h5>@product.Description</h5>
+        <h6>@product.Price</h6>
     </div>
 }
+
+<div page-model="@Model.PagingInfo" page-action="Index"></div>

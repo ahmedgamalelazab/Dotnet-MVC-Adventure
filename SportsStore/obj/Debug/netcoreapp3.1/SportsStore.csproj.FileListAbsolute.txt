@@ -61,5 +61,6 @@ D:\books\pro asp.net 3.1\chapter 7\SportsSln\SportsStore\obj\Debug\netcoreapp3.1
 D:\books\pro asp.net 3.1\chapter 7\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.dll
 D:\books\pro asp.net 3.1\chapter 7\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.pdb
 D:\books\pro asp.net 3.1\chapter 7\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.genruntimeconfig.cache
-D:\books\pro asp.net 3.1\chapter 7\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csproj.AssemblyReference.cache
-D:\books\pro asp.net 3.1\chapter 7\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\books\pro asp.net 3.1\chapter 7\SportsSln\SportsStore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\books\pro asp.net 3.1\chapter 7\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\SportsStore.csprojAssemblyReference.cache
+D:\books\pro asp.net 3.1\chapter 7\SportsSln\SportsStore\obj\Debug\netcoreapp3.1\staticwebassets\SportsStore.StaticWebAssets.xml
